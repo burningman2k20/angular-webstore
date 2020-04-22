@@ -1,0 +1,14 @@
+.transparency{
+  mix-blend-mode: multiply;
+}
+
+.no-padding {
+  padding:0px;
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+
+}
